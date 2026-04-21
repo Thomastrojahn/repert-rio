@@ -1,1 +1,23 @@
-## TCP/IP
+## Modelos de TCP/IP
+
+1.Camada de aplicação
+ - O que ela faz: Ela formata os dados para que o programa(navegador, e-mail) entenda.
+ - Protocolos comuns: HTTP/HTTPS (web), SMTP/IMAP(e-mail,), FTP(arquivos), DNS(nomes de site).
+
+2.Camda de transporte
+  -O que ela faz: Ela divide os dados em pedaços(segmento) e usa portas para saber qual progrma deve receber informação.
+  -Protocolos comuns: TCP(mais confiavel), UDP(usado em vídeos e jogos, o mais rápido).
+
+3.Camadas em rede
+  -O que ela faz: Ela organiza os dados em pacotes e adiciona o endereço de origem e destino
+  -Protocolos comuns: IP(IPv4 e IPv6), IMCP (teste de ping) e ARP.
+
+4.Camada de Enlace
+  -O que ela faz: Ela transforma pacotes em frames e usa o endereço físico da placa de rede.
+  -Tecnlogia: Ethernet(cabo), wi-fi, bluetooth.
+
+5.Camada física
+  -O que ela faz: Ela converte em bits e envia atrávez de sinais elétricos,pulsos de luz  ou ondas de rádio
+  -Exemplos: Cabos de fibras ópticass, cabos de cobre, conectores RJ45 e as próprias antenas. 
+ 
+    
