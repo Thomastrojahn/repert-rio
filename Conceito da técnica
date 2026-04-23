@@ -1,1 +1,13 @@
+ ## Conceitos da técnica versus metodologia
 
+ ## Conceitos da técnica
+  - Essa técnica se refere ao conjunto de passos, como ferramentas e procedimentos específicos usados para executar o método. É a operaionalização da pesquisa.
+    -Objetivo: Ela realiza as atividades de forma hábil.
+        
+## Conceitos da metodologia
+  -  Ela é um campo que estudo que analisa, justifica e seleciona os métodos e os procedimentos adequados para a investigação. E também e a abordagem teórica fundamenta a escolha de um problema
+    -Objetivos: Ela determina a adequação dos métodos aplicados.
+
+## como integrar o trello no GitHub:
+  - Tem duas formas de integrar o primeiro é atravéz do POWER-UP ofcial ou por via do próprio GitHub Actions.
+  - Pra funcionar precisa ativar o POWER-UP, autorizar a conta e vincular os repositórios.
